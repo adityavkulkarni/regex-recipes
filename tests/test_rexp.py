@@ -2,7 +2,7 @@
 
 import re
 import pytest
-from regex_recipes import (
+from src.regex_recipes import (
     AllChars,
     CharSet,
     Digit,
